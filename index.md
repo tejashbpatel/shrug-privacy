@@ -22,7 +22,7 @@ You need to be signed in to iCloud on your device to host or join a group sessio
 
 ## Who we are
 
-Shrug: Group Decider ("Shrug", "the app") is made by Tejash Patel ("we", "us"). You can reach us at tejashbpatel@gmail.com.
+Shrug: Group Decider ("Shrug", "the app") is made by Tejash Patel ("we", "us"). You can reach us at tejash.apps@gmail.com.
 
 ## What we collect
 
@@ -79,6 +79,8 @@ Shrug is not directed at children under 13, and we don't knowingly collect perso
 
 If we change this policy, we'll update the date at the top of this page.
 
-## Contact
+   Your phone keeps a short list of your recent group Shrugs (title, options and result) so you can come back to them. This list stays only on your phone and is never uploaded. You can delete any entry from the My Shrugs screen.
 
+## Contact : Tejash.apps@gmail.com 
+ 
 Questions? Email tejashbpatel@gmail.com.
